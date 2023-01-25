@@ -3,7 +3,7 @@ import openai
 openai.api_key = st.secrets['API_KEY']
 
 st.header("Essay writing app")
-st.text("Create AI Generated Essays in seconds with the power of GPT3")
+st.text("Create AI Generated Essays in seconds")
 st.text("Created by hrushik98 (github)")
 st.text("")
 st.text("")
